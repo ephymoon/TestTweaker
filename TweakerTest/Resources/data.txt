@@ -1,0 +1,13 @@
+яндекс.ћузыка Yandex.Music
+PowerToys Microsoft.PowerToys
+Arc TheBrowserCompany.Arc
+Spotify Spotify.Spotify
+Discord Discord.Discord
+Epic EpicGames.EpicGamesLauncher
+Steam Valve.Steam
+qBit qBittorrent.qBittorrent
+VLC VideoLAN.VLC
+Firefox Mozilla.Firefox
+Telegram Telegram.TelegramDesktop
+NanaZip M2Team.NanaZip
+X.Minecraft.Launcher CI010.XMinecraftLauncher
